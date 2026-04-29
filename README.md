@@ -1,7 +1,7 @@
-# Jazz Kissa
+# ジャズ喫茶Ways
 
 A quiet place for jazz.
 
 One track at a time.
 
-[Jazz Kissa](https://jazzkissa.github.io)
+[ジャズ喫茶Ways](https://jazzkissa.github.io)
