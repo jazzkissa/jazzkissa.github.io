@@ -1,5 +1,5 @@
 ---
-title: "今週のAOR All This Jazz"
+title: "2026年4月21日のAOR All This Jazz"
 date: 2026-04-21
 ---
 
