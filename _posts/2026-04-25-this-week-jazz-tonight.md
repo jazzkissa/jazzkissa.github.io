@@ -1,4 +1,7 @@
-
+---
+title: "今週のジャズ・トゥナイト"
+date: 2026-04-25
+---
 
 
 Encore: Jazz Giants “Herbie Hancock”
