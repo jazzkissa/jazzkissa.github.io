@@ -1,0 +1,22 @@
+# _config.yml
+
+# サイトの基本設定（SEO的にも軽く反映される）
+title: Jazz Kissa
+description: ジャズ喫茶
+baseurl: "" # サブドメインなので空でOK
+url: "https://jazzkissa.github.io"
+
+# Markdownの変換エンジン指定
+markdown: kramdown
+
+theme: minima
+
+# Google AnalyticsのトラッキングID（使うならここに入れてもOK）
+
+
+# その他（必要なら追記できる）
+plugins:
+  - jekyll-sitemap
+
+# URL設定（日付なしスラッグ形式）
+permalink: /:slug/
