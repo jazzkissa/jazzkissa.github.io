@@ -3,6 +3,8 @@ title: "今日のAOR All This Jazz"
 date: 2026-04-21
 ---
 
+![t2tsSihXI4c2Y8mYLNTNped0xsT2/rNNhc743hvJNC0qM.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/t2tsSihXI4c2Y8mYLNTNped0xsT2%2FrNNhc743hvJNC0qM.jpg?alt=media&token=2dcc75d6-5d2d-46e1-8107-383c6ddab3b2)
+
 20:05 Surf Ride / Art Pepper
 
 20:08 The Way You Look Tonight / Art Pepper
