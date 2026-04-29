@@ -3,9 +3,6 @@ title: "2026年4月25日のジャズ・トゥナイト"
 date: 2026-04-25
 ---
 
-![t2tsSihXI4c2Y8mYLNTNped0xsT2/3n6iMogUTgkutQMU.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/t2tsSihXI4c2Y8mYLNTNped0xsT2%2F3n6iMogUTgkutQMU.jpg?alt=media&token=22ee551c-8600-43f2-9157-b60bbfb1660e)
-
-
 Encore: Jazz Giants “Herbie Hancock”
 
 6M’S – Donald Byrd (6:27)
