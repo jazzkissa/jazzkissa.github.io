@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-# Jazz Kissa
+# ジャズ喫茶Ways
