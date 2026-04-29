@@ -1,2 +1,5 @@
-# jazzkissa.github.io
-    A quiet online jazz kissa. One track at a time.
+# Jazz Kissa
+
+A quiet place for jazz.
+
+One track at a time.
