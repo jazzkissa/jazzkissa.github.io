@@ -1,0 +1,24 @@
+
+
+
+20:05 Now You Has Jazz / Louis Armstrong and His Band, Bing Crosby
+
+20:10 Mahogany Hall Stomp / Louis Armstrong
+
+20:14 Cheek To Cheek / Ella fitzgerald & Louis Armstrong
+
+20:25 All Of Me / Louis Armstrong and His All-Stars
+
+20:29 12th Street Rag / Louis Armstrong and His All-Stars
+
+20:34 Someday You’ll Be Sorry / Louis Armstrong and His All-Stars
+
+20:38 Undecided / Louis Armstrong and His All-Stars
+
+20:42 Dandanella / Louis Armstrong and His All-Stars
+
+20:48 Hello, Dolly / Louis Armstrong
+
+20:52 What A Wonderful World / Louis Armstrong
+
+ルイ・アームストロング特集の回、非常に楽しい演奏でした♪
