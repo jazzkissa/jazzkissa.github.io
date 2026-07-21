@@ -1,8 +1,8 @@
 # _config.yml
 
 # サイトの基本設定（SEO的にも軽く反映される）
-title: ジャズ喫茶Ways
-description: ジャズ喫茶
+title: Jazz Cafe Ways
+description: Jazz Cafe
 baseurl: "" # サブドメインなので空でOK
 url: "https://jazzkissa.github.io"
 
