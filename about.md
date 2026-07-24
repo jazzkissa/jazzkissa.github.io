@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # Tiny Cafe Waysについて
-![t2tsSihXI4c2Y8mYLNTNped0xsT2/A4o339vvDFrX3EjQ.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/t2tsSihXI4c2Y8mYLNTNped0xsT2%2FA4o339vvDFrX3EjQ.jpg?alt=media&token=8f90bd7b-673f-4d11-a5eb-42f3ddb01383)
+![t2tsSihXI4c2Y8mYLNTNped0xsT2/H5sCkL7DBEOksA8Q.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/t2tsSihXI4c2Y8mYLNTNped0xsT2%2FH5sCkL7DBEOksA8Q.jpg?alt=media&token=6513ef2a-546a-4a73-9235-ac9d166eca18)
 
 
 こんにちは。Ways(ウェイズ)のマスターです。
