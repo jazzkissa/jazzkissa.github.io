@@ -4,17 +4,21 @@ title: About
 permalink: /about/
 ---
 
-# Tiny Cafe Waysについて
+### Tiny Cafe Waysについて
 ![t2tsSihXI4c2Y8mYLNTNped0xsT2/H5sCkL7DBEOksA8Q.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/t2tsSihXI4c2Y8mYLNTNped0xsT2%2FH5sCkL7DBEOksA8Q.jpg?alt=media&token=6513ef2a-546a-4a73-9235-ac9d166eca18)
 
 
-こんにちは。Ways(ウェイズ)のマスターです。
+Tiny Cafe Ways は、心地よい時間と空間を届けるための、小さな本棚です。
 
-ジャズとオーディオが好きです。
+音楽、本、そして日々の静かなひととき。
+ジャンルにとらわれず、店主が心地よいと感じた作品を、一冊ずつゆっくり並べていきます。
 
-1950〜60年代のモダンジャズを中心に、
-FMラジオやApple Musicでゆるく聴いています。
+どうぞ、ごゆっくり。
 
-無理なく、長く続けていけたらと思っています。
 
-よろしくお願いします。
+Tiny Cafe Ways is a tiny bookshelf for quiet moments.
+
+Music, books, and everyday life.
+One small book at a time, carefully chosen to create a calm and comfortable moment.
+
+Take your time.
