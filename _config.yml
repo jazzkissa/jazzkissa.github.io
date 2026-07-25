@@ -17,3 +17,6 @@ theme: minima
 # その他（必要なら追記できる）
 plugins:
   - jekyll-sitemap
+
+header_pages:
+  - about.md
