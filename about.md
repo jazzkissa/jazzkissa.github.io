@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### Tiny Cafe Waysについて
-![t2tsSihXI4c2Y8mYLNTNped0xsT2/H5sCkL7DBEOksA8Q.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/t2tsSihXI4c2Y8mYLNTNped0xsT2%2FH5sCkL7DBEOksA8Q.jpg?alt=media&token=6513ef2a-546a-4a73-9235-ac9d166eca18)
+![t2tsSihXI4c2Y8mYLNTNped0xsT2/K4AFUKOHkO5aqUfw.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/t2tsSihXI4c2Y8mYLNTNped0xsT2%2FK4AFUKOHkO5aqUfw.jpg?alt=media&token=4fedc60f-ef65-4380-8717-74b6bcc3713b)
 
 
 Tiny Cafe Ways は、心地よい時間と空間を届けるための、小さな本棚です。
