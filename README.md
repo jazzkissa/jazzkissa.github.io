@@ -1,7 +1,7 @@
 # Tiny Cafe Ways
 
-A quiet place for jazz.
+A tiny bookshelf for quiet moments.
 
-One track at a time.
+Music. Books. Everyday life.
 
 [Tiny Cafe Ways](https://jazzkissa.github.io)
