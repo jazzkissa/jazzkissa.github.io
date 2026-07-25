@@ -11,7 +11,7 @@ title: Tiny Cafe Ways
 
 ## Tiny Jazz 001
 
-[![Tiny Jazz 001](/assets/images/tiny-jazz-001.jpg)]([Amazonリンク](https://amzn.asia/d/058fnYEH))
+[![Tiny Jazz 001](/assets/images/tiny-jazz-001.jpg)](https://amzn.asia/d/058fnYEH)
 
 **Sonny Rollins**
 
@@ -21,7 +21,7 @@ title: Tiny Cafe Ways
 
 ## Tiny Jazz 002
 
-[![Tiny Jazz 002](/assets/images/tiny-jazz-002.jpg)](Amazonリンク)
+[![Tiny Jazz 002](/assets/images/tiny-jazz-002.jpg)](https://amzn.asia/d/0iVKqqU6)
 
 **Sonny Rollins**
 
