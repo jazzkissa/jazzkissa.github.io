@@ -13,9 +13,7 @@ title: Tiny Cafe Ways
 
 [![Tiny Jazz 001](/assets/images/tiny-jazz-001.jpg)](https://amzn.asia/d/058fnYEH)
 
-**Sonny Rollins**
-
-静かな朝の一冊。
+**Oscar Peterson Trio**
 
 ---
 
@@ -24,5 +22,3 @@ title: Tiny Cafe Ways
 [![Tiny Jazz 002](/assets/images/tiny-jazz-002.jpg)](https://amzn.asia/d/0iVKqqU6)
 
 **Sonny Rollins**
-
-軽やかな朝の一冊。
