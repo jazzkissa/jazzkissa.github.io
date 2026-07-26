@@ -16,13 +16,3 @@ layout: default
 
 一冊ずつ、心地よい時間と空間を届けます。
 
----
-
-## Books
-
-### Jazz Cafe Ways 001
-https://amzn.asia/d/058fnYEH
-
-### Jazz Cafe Ways 002
-https://amzn.asia/d/0iVKqqU6
-
