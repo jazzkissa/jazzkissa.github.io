@@ -21,8 +21,8 @@ layout: default
 ## Books
 
 ### Jazz Cafe Ways 001
-(https://amzn.asia/d/058fnYEH)
+https://amzn.asia/d/058fnYEH
 
 ### Jazz Cafe Ways 002
-(https://amzn.asia/d/0iVKqqU6)
+https://amzn.asia/d/0iVKqqU6
 
