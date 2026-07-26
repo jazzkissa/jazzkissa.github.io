@@ -5,7 +5,7 @@ title: Jazz Cafe Ways
 
 # Jazz Cafe Ways
 
-> A digital jazz café, built one book at a time.
+> A digital jazz cafe, built one book at a time.
 
 50年かけて育てるデジタルジャズ喫茶。
 
