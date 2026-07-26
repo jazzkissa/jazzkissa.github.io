@@ -7,7 +7,7 @@ title: Jazz Cafe Ways
 
 > A digital jazz cafe, built one book at a time.
 
-50年かけて育てるデジタルジャズ喫茶。
+デジタルジャズ喫茶。
 
 ジャズを聴き、
 学び、
