@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Jazz Cafe Ways
 ---
 
 # Jazz Cafe Ways
