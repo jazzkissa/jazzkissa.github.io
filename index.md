@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# Jazz Cafe Ways
-
-> A digital jazz cafe, built one book at a time.
+# ジャズ喫茶Ways
 
 デジタルジャズ喫茶。
 
@@ -12,10 +10,11 @@ layout: default
 学び、
 書く。
 
-一冊ずつ、心地よい時間と空間を届けます。
+一冊ずつ、
+心地よい時間と空間を届けます。
 
 ---
 
 ## Books
 
-### Jazz Cafe Ways 001
+### ジャズ喫茶Ways 001
