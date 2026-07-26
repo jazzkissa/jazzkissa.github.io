@@ -4,8 +4,6 @@ layout: default
 
 # Jazz Cafe Ways
 
-![Tiny Jazz 000](/assets/images/tiny-jazz-000.jpg)
-
 > A digital jazz cafe, built one book at a time.
 
 デジタルジャズ喫茶。
