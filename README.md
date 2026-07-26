@@ -1,7 +1,7 @@
-# Jazz Cafe Ways
+# ジャズ喫茶Ways
 
 A tiny bookshelf for quiet moments.
 
 Music. Books. Everyday life.
 
-[Jazz Cafe Ways](https://jazzkissa.github.io)
+[ジャズ喫茶Ways](https://jazzkissa.github.io)
