@@ -23,6 +23,10 @@ Kindleで本を販売するのは、その店を50年続けていくため。
 ### Tiny Jazz 002
 [![Tiny Jazz 002](assets/images/tiny-jazz-002.jpg)](https://www.amazon.co.jp/Tiny-Jazz-002-%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%AD%E3%83%AA%E3%83%B3%E3%82%BA-Ways-ebook/dp/B0GT9L6S1B/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2A2HWLZXZX2DP&dib=eyJ2IjoiMSJ9.K8B_QxxOXIJm95Od1Pe52A.2uouq45-1_qvjxPxxCP_wHJl6t5WsLhuNNRp6CNdxS0&dib_tag=se&keywords=tiny+jazz+002&qid=1787470715&sprefix=tiny+jazz+002%2Caps%2C191&sr=8-1)
 
+## Ways Playlistシリーズ
+### 2026年8月のプレイリスト
+📝執筆予定📝
+
 ## 店主の日誌シリーズ
 Waysの店主が、ジャズや音楽、日々の暮らしについて綴った本。
 
