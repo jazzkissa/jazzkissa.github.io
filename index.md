@@ -3,7 +3,7 @@ layout: default
 ---
 
 # ジャズ喫茶Ways
-
+![ジャズ喫茶Ways 000](assets/images/Jazz-Cafe-Ways-000.jpg)
 ジャズ喫茶Waysは、ジャズと過ごす心地よい時間を届けるデジタルジャズ喫茶です。
 
 Kindleで本を販売するのは、その店を50年続けていくため。
